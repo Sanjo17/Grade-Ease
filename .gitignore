@@ -3,3 +3,4 @@ exam/utils/checkpoint
 grade
 __pycache__
 tasks.txt
+.env
